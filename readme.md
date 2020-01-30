@@ -8,7 +8,7 @@ ljy, mcl, whh, zfx
 
 # 二. 程序输入输出格式
 
-<img src="/Users/jones/Library/Application Support/typora-user-images/image-20200130174125561.png" alt="image-20200130174125561" style="zoom:50%;" />
+<img src="img/image-20200130174125561.png" alt="image-20200130174125561" style="zoom:50%;" />
 
 其中n为决策变量个数，m为约束个数。
 
@@ -20,7 +20,7 @@ $a_{i1}, a_{i2},\cdots, a_{in}, b_i,d_i$ 对应第i条约束，其中$a_{i1}, a_
 * $e_i=0$表示$x_i$无约束
 * $e_i=1$表示$x_i$大于等于0
 
-<img src="/Users/jones/Library/Application Support/typora-user-images/image-20200130175315633.png" alt="image-20200130175315633" style="zoom:50%;" />
+<img src="img/image-20200130175315633.png" alt="image-20200130175315633" style="zoom:50%;" />
 
 * k 为-1 表示线性规划无解
 * k 为 0 表示无有限最优解
